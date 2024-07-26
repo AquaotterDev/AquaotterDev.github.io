@@ -48,3 +48,32 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.box {
+    flex: 1;
+    min-width: 200px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    color: white;
+}
+
+.box-content {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
