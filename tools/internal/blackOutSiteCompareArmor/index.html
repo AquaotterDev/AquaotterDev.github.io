@@ -1,0 +1,50 @@
+<div class="armor-compare-page">
+
+    <h2>Is My Armor Better?</h2>
+
+    <div class="compare-card">
+
+        <label>
+            Armor Slot
+            <select id="compareSlot">
+                <option>Helmet</option>
+                <option>Chestplate</option>
+                <option>Leggings</option>
+                <option>Boots</option>
+            </select>
+        </label>
+
+        <label>
+            Armor Points
+            <input id="compareArmorPoints" type="number" min="0" value="1">
+        </label>
+
+        <label>
+            Custom Defense
+            <input id="compareDefense" type="number" min="0" value="0">
+        </label>
+
+        <label>
+            Protection Level
+            <input id="compareProt" type="number" min="0" max="10" value="3">
+        </label>
+
+        <label class="checkbox-label">
+            <input id="compareObtainable" type="checkbox">
+            Obtainable Only
+        </label>
+
+        <label class="checkbox-label">
+            <input id="compareBinding" type="checkbox">
+            Ignore Curse of Binding
+        </label>
+
+        <button id="compareButton">
+            Compare Armor
+        </button>
+
+    </div>
+
+    <div id="compareResults"></div>
+
+</div>

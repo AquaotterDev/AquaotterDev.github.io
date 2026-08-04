@@ -1,0 +1,85 @@
+<div class="weapon-page">
+    <div class="filter-container">
+
+        <button id="filterButton">
+            Filters ▼
+        </button>
+
+        <div id="filterMenu" class="filter-menu">
+
+            <label>
+                <input type="checkbox" id="filterObtainable">
+                Obtainable (Item doesn't have curse of vanishing)
+            </label>
+
+            <label>
+                <input type="checkbox" id="filterHelmet">
+                Only Helmets
+            </label>
+
+            <label>
+                <input type="checkbox" id="filterChestplate">
+                Only Chestplates
+            </label>
+
+            <label>
+                <input type="checkbox" id="filterLeggings">
+                Only Leggings
+            </label>
+
+            <label>
+                <input type="checkbox" id="filterBoots">
+                Only Boots
+            </label>
+
+            <label>
+                <input type="checkbox" id="filterNoBinding">
+                No Curse of Binding [WORK IN PROGRESS]
+            </label>
+
+            <hr>
+
+            <strong>Chaos team kits I Have:</strong>
+
+            <div id="kitFilters"></div>
+
+        </div>
+
+    </div>
+
+    <div class="table-wrapper">
+        <table class="weapon-table" id="weaponTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+
+                    <th class="sortable" data-sort="tier">
+                        Tier <span class="sort-icon">↕</span>
+                    </th>
+
+                    <th class="sortable" data-sort="damageReduction">
+                        Damage Reduction <span class="sort-icon">↕</span>
+                    </th>
+
+                    <th class="sortable" data-sort="armorPoints">
+                        Armor Points <span class="sort-icon">↕</span>
+                    </th>
+
+                    <th class="sortable" data-sort="customDefense">
+                        Custom Defense <span class="sort-icon">↕</span>
+                    </th>
+
+                    <th class="sortable" data-sort="speed">
+                        Speed <span class="sort-icon">↕</span>
+                    </th>
+                    <th>How to get it?</th>
+                </tr>
+            </thead>
+
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <h>WARNING: Serpents-Hand and Serpent-Monarch are not added.</h>
+
+</div>

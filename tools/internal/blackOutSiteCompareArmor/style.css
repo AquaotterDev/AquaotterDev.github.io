@@ -1,0 +1,96 @@
+.armor-compare-page {
+    max-width: 900px;
+    margin: auto;
+}
+
+.compare-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+
+    padding: 20px;
+    background: #111;
+    border-radius: 12px;
+}
+
+.compare-card button {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: 200px;
+}
+
+.compare-card label:nth-last-child(3),
+.compare-card label:nth-last-child(2) {
+    grid-column: 1 / -1;
+}
+
+.compare-card label {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 5px;
+}
+
+.compare-card input,
+.compare-card select {
+    background: #1f1f1f;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.compare-card button {
+    justify-self: center;
+    width: fit-content;
+    min-width: 180px;
+    padding: 12px 24px;
+    background: #4f6cff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.compare-card button:hover {
+    background: #6880ff;
+}
+
+#compareResults {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 15px;
+}
+
+.compare-result {
+
+    background: #181818;
+
+    border-left: 5px solid #4f6cff;
+
+    border-radius: 10px;
+
+    padding: 15px;
+}
+
+.compare-result.upgrade {
+
+    border-left-color: #55ff77;
+}
+
+.compare-result h3 {
+
+    margin: 0 0 10px;
+}
+
+.checkbox-label {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    color: white;
+}

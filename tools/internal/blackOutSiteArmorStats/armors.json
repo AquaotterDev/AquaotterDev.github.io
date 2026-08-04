@@ -1,0 +1,1260 @@
+[
+    {
+        "name": "Chaos Alpha Helmet",
+        "armorPoints": 1,
+        "customDefense": 12,
+        "speed": 0,
+        "droppable": true,
+        "slot": "Helmet",
+        "requires": "Chaos-Alpha",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Alpha Chestplate",
+        "armorPoints": 1,
+        "customDefense": 20,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": true,
+        "requires": "Chaos-Alpha",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Alpha Leggings",
+        "armorPoints": 1,
+        "customDefense": 23,
+        "speed": 0,
+        "slot": "Leggings",
+        "droppable": true,
+        "requires": "Chaos-Alpha",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Alpha Boots",
+        "armorPoints": 1,
+        "customDefense": 15,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": true,
+        "requires": "Chaos-Alpha",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Beta Helmet",
+        "armorPoints": 2,
+        "customDefense": 25,
+        "speed": 0,
+        "slot": "Helmet",
+        "droppable": false,
+        "requires": "Chaos-Beta",
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Chaos-Alpha | Curse of Binding"
+    },
+    {
+        "name": "Chaos Beta Chestplate",
+        "armorPoints": 1,
+        "customDefense": 17,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": true,
+        "requires": "Chaos-Beta",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Beta Leggings",
+        "armorPoints": 1,
+        "customDefense": 20,
+        "speed": 0,
+        "slot": "Leggings",
+        "droppable": true,
+        "requires": "Chaos-Beta",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Beta Boots",
+        "armorPoints": 2,
+        "customDefense": 12,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": true,
+        "requires": "Chaos-Beta",
+        "obtainableText": "Dropped/Obtainable from Chaos-Alpha"
+    },
+    {
+        "name": "Chaos Gamma Helmet",
+        "armorPoints": 2,
+        "customDefense": 17,
+        "speed": 0,
+        "slot": "Helmet",
+        "droppable": true,
+        "requires": "Chaos-Gamma",
+        "obtainableText": "Dropped/Obtainable from Chaos-Gamma"
+    },
+    {
+        "name": "Chaos Gamma Chestplate",
+        "armorPoints": 1,
+        "customDefense": 17,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": true,
+        "requires": "Chaos-Gamma",
+        "obtainableText": "Dropped/Obtainable from Chaos-Gamma"
+    },
+    {
+        "name": "Chaos Gamma Leggings",
+        "armorPoints": 1,
+        "customDefense": 35,
+        "speed": 5,
+        "slot": "Leggings",
+        "droppable": false,
+        "requires": "Chaos-Gamma",
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Chaos-Gamma | Curse of Binding"
+    },
+    {
+        "name": "Chaos Gamma Boots",
+        "armorPoints": 1,
+        "customDefense": 15,
+        "slot": "Boots",
+        "speed": 5,
+        "droppable": true,
+        "requires": "Chaos-Gamma",
+        "obtainableText": "Dropped/Obtainable from Chaos-Gamma"
+    },
+    {
+        "name": "Chaos Delta Helmet",
+        "armorPoints": 2,
+        "customDefense": 24,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": false,
+        "requires": "Chaos-Delta",
+        "obtainableText": "Obtainable from Chaos-Delta"
+    },
+    {
+        "name": "Chaos Delta Chestplate",
+        "armorPoints": 1,
+        "customDefense": 35,
+        "slot": "Chestplate",
+        "speed": -10,
+        "droppable": false,
+        "requires": "Chaos-Delta",
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Chaos-Delta | Curse of Binding"
+    },
+    {
+        "name": "Chaos Delta Leggings",
+        "armorPoints": 1.5,
+        "customDefense": 25,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "requires": "Chaos-Delta",
+        "obtainableText": "Droppable/Obtainable from Chaos-Delta"
+    },
+    {
+        "name": "Chaos Delta Boots",
+        "armorPoints": 2,
+        "slot": "Boots",
+        "customDefense": 20,
+        "speed": 0,
+        "droppable": true,
+        "requires": "Chaos-Delta",
+        "obtainableText": "Droppable/Obtainable from Chaos-Delta"
+    },
+    {
+        "name": "Chaos Epsilon Helmet",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 20,
+        "speed": 0,
+        "droppable": false,
+        "requires": "Chaos-Epsilon",
+        "obtainableText": "Obtainable from Chaos-Epsilon"
+    },
+    {
+        "name": "Chaos Epsilon Chestplate",
+        "armorPoints": 2,
+        "slot": "Chestplate",
+        "customDefense": 30,
+        "speed": 0,
+        "droppable": true,
+        "requires": "Chaos-Epsilon",
+        "obtainableText": "Droppable/Obtainable from Chaos-Epsilon"
+    },
+    {
+        "name": "Chaos Epsilon Leggings",
+        "armorPoints": 2,
+        "slot": "Leggings",
+        "customDefense": 28,
+        "speed": 0,
+        "droppable": false,
+        "requires": "Chaos-Epsilon",
+        "obtainableText": "Droppable/Obtainable from Chaos-Epsilon"
+    },
+    {
+        "name": "Chaos Epsilon Boots",
+        "armorPoints": 1,
+        "slot": "Boots",
+        "customDefense": 23,
+        "speed": 5,
+        "droppable": false,
+        "requires": "Chaos-Epsilon",
+        "obtainableText": "Obtainable from Chaos-Epsilon"
+    },
+    {
+        "name": "The-Engineer Helmet",
+        "armorPoints": 3,
+        "customDefense": 32,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": false,
+        "requires": "The-Engineer",
+        "obtainableText": "Obtainable from The-Engineer"
+    },
+    {
+        "name": "The-Engineer Chestplate",
+        "armorPoints": 2,
+        "customDefense": 38,
+        "slot": "Chestplate",
+        "speed": 5,
+        "droppable": false,
+        "requires": "The-Engineer",
+        "obtainableText": "Obtainable from The-Engineer"
+    },
+    {
+        "name": "The-Engineer Leggings",
+        "armorPoints": 2,
+        "customDefense": 33,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "requires": "The-Engineer",
+        "obtainableText": "Droppable/Obtainable from The-Engineer"
+    },
+    {
+        "name": "The-Engineer Boots",
+        "armorPoints": 1,
+        "customDefense": 27,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "requires": "The-Engineer",
+        "obtainableText": "Droppable/Obtainable from The-Engineer"
+    },
+    {
+        "name": "The Possessed Mask",
+        "armorPoints": 0,
+        "customDefense": 0,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Kill SCP-035 | Curse of Binding | -2 HP | +1 Attack Damage"
+    },
+    {
+        "name": "The Possessed Mask [Upgraded]",
+        "armorPoints": 2,
+        "customDefense": 25,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Kill SCP-035 | Curse of Binding | -2 HP | +1.25 Attack Damage"
+    },
+    {
+        "name": "Chef Hat",
+        "armorPoints": 1,
+        "customDefense": 10,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Shopkeeper (Silverfish) (X: 47, Y: 117, Z: 119)"
+    },
+    {
+        "name": "Leather Tunic (Red)",
+        "armorPoints": 3,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Red)",
+        "armorPoints": 2,
+        "slot": "Leggings",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Red)",
+        "armorPoints": 1,
+        "slot": "Boots",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Light-Blue)",
+        "armorPoints": 3,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Light-Blue)",
+        "armorPoints": 2,
+        "customDefense": 0,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Light-Blue)",
+        "armorPoints": 1,
+        "customDefense": 0,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Dull-Yellow)",
+        "armorPoints": 3,
+        "slot": "Chestplate",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Dull-Yellow)",
+        "armorPoints": 2,
+        "slot": "Leggings",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Dull-Yellow)",
+        "armorPoints": 1,
+        "customDefense": 0,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Yellow)",
+        "armorPoints": 3,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Yellow)",
+        "armorPoints": 2,
+        "customDefense": 0,
+        "speed": 0,
+        "slot": "Leggings",
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Blue)",
+        "armorPoints": 1,
+        "customDefense": 0,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Blue)",
+        "armorPoints": 3,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Blue)",
+        "armorPoints": 2,
+        "customDefense": 0,
+        "speed": 0,
+        "slot": "Leggings",
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Blue)",
+        "armorPoints": 1,
+        "customDefense": 0,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$100 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Black-Trim-Purple)",
+        "armorPoints": 3,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Black-Trim-Purple)",
+        "armorPoints": 2,
+        "customDefense": 0,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Black-Trim-Purple)",
+        "armorPoints": 1,
+        "slot": "Boots",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Tunic (Green-Trim-Lime)",
+        "armorPoints": 3,
+        "slot": "Chestplate",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Pants (Green-Trim-Lime)",
+        "armorPoints": 2,
+        "customDefense": 0,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Leather Boots (Green-Trim-Lime)",
+        "armorPoints": 1,
+        "customDefense": 0,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": true,
+        "obtainableText": "$200 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Speedy Shirt",
+        "armorPoints": 0,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 2.5,
+        "droppable": true,
+        "obtainableText": "$650 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Speedy Pants",
+        "armorPoints": 2,
+        "slot": "Leggings",
+        "customDefense": 0,
+        "speed": 2.5,
+        "droppable": true,
+        "obtainableText": "$650 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Speedy Shoes",
+        "armorPoints": 0,
+        "customDefense": 0,
+        "slot": "Boots",
+        "speed": 2.5,
+        "droppable": true,
+        "obtainableText": "$650 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Lava Chestplate",
+        "armorPoints": 3,
+        "slot": "Chestplate",
+        "customDefense": 20,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$550 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Lava Leggings",
+        "armorPoints": 2,
+        "customDefense": 15,
+        "speed": 0,
+        "slot": "Leggings",
+        "droppable": true,
+        "obtainableText": "$550 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Lava Boots",
+        "armorPoints": 1,
+        "customDefense": 12,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$550 Bought from Outfit Merchant (X: 30, Y: 116, Z: 172)"
+    },
+    {
+        "name": "Class-D Chestplate",
+        "armorPoints": 2.5,
+        "customDefense": 0,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-D"
+    },
+    {
+        "name": "Class-D Leggings",
+        "armorPoints": 2.5,
+        "slot": "Leggings",
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-D"
+    },
+    {
+        "name": "Class-D Boots",
+        "slot": "Boots",
+        "armorPoints": 2.5,
+        "customDefense": 0,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-D"
+    },
+    {
+        "name": "Class-E Chestplate",
+        "armorPoints": 2.5,
+        "slot": "Chestplate",
+        "customDefense": 5,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-E"
+    },
+    {
+        "name": "Class-E Leggings",
+        "armorPoints": 2.5,
+        "customDefense": 3,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-E"
+    },
+    {
+        "name": "Class-E Boots",
+        "armorPoints": 2.5,
+        "customDefense": 2,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": false,
+        "obtainableText": "Obtainable from Class-E"
+    },
+    {
+        "name": "Visitor Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 10,
+        "speed": 10,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Visitor | Curse of Binding"
+    },
+    {
+        "name": "Investor Business Shirt",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 100,
+        "speed": 0,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Investor | Curse of Binding | -33 Attack Damage"
+    },
+    {
+        "name": "Investor Business Jeans",
+        "armorPoints": 1,
+        "slot": "Leggings",
+        "customDefense": 100,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Investor | Curse of Binding | -33 Attack Damage"
+    },
+    {
+        "name": "Investor Business Boots",
+        "armorPoints": 0,
+        "customDefense": 100,
+        "speed": 0,
+        "curseOfBinding": true,
+        "slot": "Boots",
+        "droppable": false,
+        "obtainableText": "Obtainable from Investor | Curse of Binding | -33 Attack Damage"
+    },
+    {
+        "name": "Security Helmet",
+        "armorPoints": 1,
+        "customDefense": 10,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Security"
+    },
+    {
+        "name": "Security Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 20,
+        "speed": 0,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Security | Curse of Binding"
+    },
+    {
+        "name": "Security Leggings",
+        "armorPoints": 1,
+        "customDefense": 15,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Security"
+    },
+    {
+        "name": "Security Boots",
+        "armorPoints": 1,
+        "customDefense": 20,
+        "slot": "Boots",
+        "speed": 0,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Security | Curse of Binding"
+    },
+    {
+        "name": "Senior Security Helmet",
+        "armorPoints": 1,
+        "customDefense": 25,
+        "slot": "Helmet",
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Senior Security | Curse of Binding"
+    },
+    {
+        "name": "Senior Security Chestplate",
+        "armorPoints": 1,
+        "customDefense": 23,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Senior Security"
+    },
+    {
+        "name": "Senior Security Leggings",
+        "armorPoints": 3,
+        "customDefense": 20,
+        "slot": "Leggings",
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Senior Security | Curse of Binding"
+    },
+    {
+        "name": "Senior Security Boots",
+        "armorPoints": 0,
+        "customDefense": 15,
+        "speed": 5,
+        "droppable": true,
+        "slot": "Boots",
+        "obtainableText": "Droppable/Obtainable from Senior Security"
+    },
+    {
+        "name": "Security Captain Helmet",
+        "armorPoints": 3,
+        "customDefense": 25,
+        "slot": "Helmet",
+        "speed": 0,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Security Captain | Curse of Binding"
+    },
+    {
+        "name": "Security Captain Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 30,
+        "speed": -5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Security Captain"
+    },
+    {
+        "name": "Security Captain Leggings",
+        "armorPoints": 1,
+        "customDefense": 33,
+        "slot": "Leggings",
+        "speed": 10,
+        "droppable": false,
+        "obtainableText": "Obtainable from Security Captain"
+    },
+    {
+        "name": "Security Captain Boots",
+        "armorPoints": 2,
+        "slot": "Boots",
+        "customDefense": 27,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Security Captain"
+    },
+    {
+        "name": "Doctor Helmet",
+        "armorPoints": 1,
+        "curseOfBinding": true,
+        "slot": "Helmet",
+        "customDefense": 10,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Doctor | Curse of Binding"
+    },
+    {
+        "name": "Doctor Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 13,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Doctor"
+    },
+    {
+        "name": "Doctor Leggings",
+        "armorPoints": 1,
+        "customDefense": 15,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Doctor"
+    },
+    {
+        "name": "Doctor Boots",
+        "armorPoints": 1,
+        "customDefense": 7,
+        "slot": "Boots",
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Doctor | Curse of Binding"
+    },
+    {
+        "name": "Scientist Mask",
+        "armorPoints": 1.5,
+        "slot": "Helmet",
+        "customDefense": 11,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Scientist"
+    },
+    {
+        "name": "Scientist Chestplate",
+        "armorPoints": 2.5,
+        "customDefense": 12,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from Scientist | Curse of Binding"
+    },
+    {
+        "name": "Scientist Leggings",
+        "armorPoints": 2.5,
+        "slot": "Leggings",
+        "customDefense": 10,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Scientist"
+    },
+    {
+        "name": "Scientist Boots",
+        "slot": "Boots",
+        "armorPoints": 1,
+        "customDefense": 8,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Scientist"
+    },
+    {
+        "name": "Epsilon-11 Helmet",
+        "armorPoints": 1,
+        "customDefense": 22,
+        "speed": 0,
+        "slot": "Helmet",
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Epsilon-11"
+    },
+    {
+        "name": "Epsilon-11 Chestplate",
+        "armorPoints": 2,
+        "customDefense": 28,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Epsilon-11"
+    },
+    {
+        "name": "Epsilon-11 Leggings",
+        "armorPoints": 2,
+        "customDefense": 25,
+        "slot": "Leggings",
+        "speed": 5,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Epsilon-11 | Curse of Binding"
+    },
+    {
+        "name": "Epsilon-11 Boots",
+        "armorPoints": 1,
+        "customDefense": 15,
+        "slot": "Boots",
+        "speed": 5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Epsilon-11"
+    },
+    {
+        "name": "Delta-5 Helmet",
+        "armorPoints": 1,
+        "customDefense": 22,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Delta-5"
+    },
+    {
+        "name": "Delta-5 Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 30,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Delta-5 | Curse of Binding"
+    },
+    {
+        "name": "Delta-5 Leggings",
+        "armorPoints": 2,
+        "customDefense": 30,
+        "slot": "Leggings",
+        "speed": 0,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Delta-5 | Curse of Binding"
+    },
+    {
+        "name": "Delta-5 Boots",
+        "armorPoints": 2,
+        "customDefense": 21,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Delta-5"
+    },
+    {
+        "name": "Nu-7 Helmet",
+        "armorPoints": 2,
+        "slot": "Helmet",
+        "customDefense": 30,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Nu-7 | Curse of Binding | Scale 0.1"
+    },
+    {
+        "name": "Nu-7 Chestplate",
+        "slot": "Chestplate",
+        "armorPoints": 2,
+        "customDefense": 44,
+        "curseOfBinding": true,
+        "speed": -7.5,
+        "droppable": false,
+        "obtainableText": "Obtainable from Nu-7 | Curse of Binding"
+    },
+    {
+        "name": "Nu-7 Leggings",
+        "armorPoints": 2,
+        "customDefense": 33,
+        "slot": "Leggings",
+        "speed": -7.5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Nu-7"
+    },
+    {
+        "name": "Nu-7 Boots",
+        "armorPoints": 0,
+        "customDefense": 23,
+        "slot": "Boots",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Nu-7"
+    },
+    {
+        "name": "Alpha-1 Helmet",
+        "armorPoints": 1,
+        "customDefense": 25,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Alpha-1"
+    },
+    {
+        "name": "Alpha-1 Bulletproof Vest",
+        "armorPoints": 2,
+        "customDefense": 37,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Alpha-1"
+    },
+    {
+        "name": "Alpha-1 Trousers",
+        "armorPoints": 2,
+        "customDefense": 30,
+        "curseOfBinding": true,
+        "slot": "Leggings",
+        "speed": 5,
+        "droppable": false,
+        "obtainableText": "Obtainable from Alpha-1 | Curse of Binding"
+    },
+    {
+        "name": "Alpha-1 Shoes",
+        "armorPoints": 1,
+        "customDefense": 25,
+        "speed": 0,
+        "slot": "Boots",
+        "droppable": false,
+        "obtainableText": "Obtainable from Alpha-1"
+    },
+    {
+        "name": "Omega-1 Helmet",
+        "armorPoints": 1,
+        "customDefense": 30,
+        "slot": "Helmet",
+        "speed": -2.5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Omega-1"
+    },
+    {
+        "name": "Omega-1 Bulletproof Vest",
+        "armorPoints": 3,
+        "curseOfBinding": true,
+        "customDefense": 40,
+        "speed": 0,
+        "slot": "Chestplate",
+        "droppable": false,
+        "obtainableText": "Obtainable from Omega-1 | Curse of Binding"
+    },
+    {
+        "name": "Omega-1 Leggings",
+        "armorPoints": 3,
+        "slot": "Leggings",
+        "customDefense": 40,
+        "speed": -2.5,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Omega-1 | Curse of Binding"
+    },
+    {
+        "name": "Omega-1 Heavy Boots",
+        "armorPoints": 2,
+        "customDefense": 30,
+        "slot": "Boots",
+        "speed": -2.5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Omega-1"
+    },
+    {
+        "name": "Titan-1 Helmet",
+        "armorPoints": 4,
+        "customDefense": 45,
+        "curseOfBinding": true,
+        "speed": 0,
+        "slot": "Helmet",
+        "droppable": false,
+        "obtainableText": "Obtainable from Titan-1 | Curse of Binding"
+    },
+    {
+        "name": "Titan-1 Chestplate",
+        "armorPoints": 1,
+        "customDefense": 60,
+        "speed": -5,
+        "curseOfBinding": true,
+        "slot": "Chestplate",
+        "droppable": false,
+        "obtainableText": "Obtainable from Titan-1 | Curse of Binding | +4 HP"
+    },
+    {
+        "name": "Titan-1 Leggings",
+        "armorPoints": 2,
+        "customDefense": 50,
+        "speed": -15,
+        "slot": "Leggings",
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Titan-1"
+    },
+    {
+        "name": "Titan-1 Boots",
+        "armorPoints": 4,
+        "customDefense": 45,
+        "speed": 10,
+        "curseOfBinding": true,
+        "droppable": false,
+        "slot": "Boots",
+        "obtainableText": "Obtainable from Titan-1 | Curse of Binding"
+    },
+    {
+        "name": "Internal Affairs Helmet",
+        "armorPoints": 1,
+        "customDefense": 23,
+        "speed": 5,
+        "droppable": true,
+        "slot": "Helmet",
+        "obtainableText": "Droppable/Obtainable from Internal Affairs"
+    },
+    {
+        "name": "Internal Affairs Chestplate",
+        "armorPoints": 1,
+        "customDefense": 35,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Internal Affairs"
+    },
+    {
+        "name": "Internal Affairs Leggings",
+        "armorPoints": 1,
+        "slot": "Leggings",
+        "customDefense": 30,
+        "speed": 5,
+        "droppable": false,
+        "obtainableText": "Obtainable from Internal Affairs"
+    },
+    {
+        "name": "Internal Affairs Boots",
+        "armorPoints": 1,
+        "customDefense": 7,
+        "slot": "Boots",
+        "speed": 5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Internal Affairs"
+    },
+    {
+        "name": "Internal Affairs Officer Helmet",
+        "armorPoints": 1,
+        "customDefense": 30,
+        "speed": 0,
+        "slot": "Helmet",
+        "droppable": false,
+        "obtainableText": "Obtainable from Internal Affairs Officer"
+    },
+    {
+        "name": "Internal Affairs Officer Chestplate",
+        "armorPoints": 1,
+        "customDefense": 36,
+        "slot": "Chestplate",
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Internal Affairs Officer"
+    },
+    {
+        "name": "Internal Affairs Officer Leggings",
+        "armorPoints": 1,
+        "customDefense": 40,
+        "slot": "Leggings",
+        "speed": -5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Internal Affairs Officer"
+    },
+    {
+        "name": "Internal Affairs Officer Boots",
+        "armorPoints": 1,
+        "customDefense": 26,
+        "slot": "Boots",
+        "speed": 0,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from Internal Affairs Officer | Curse of Binding | 0.5 Step Height"
+    },
+    {
+        "name": "Site Coordinator Helmet",
+        "armorPoints": 2,
+        "customDefense": 30,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Site Coordinator"
+    },
+    {
+        "name": "Site Coordinator Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 45,
+        "speed": -5,
+        "droppable": false,
+        "obtainableText": "Obtainable from Site Coordinator"
+    },
+    {
+        "name": "Site Coordinator Leggings",
+        "armorPoints": 3,
+        "curseOfBinding": true,
+        "slot": "Leggings",
+        "customDefense": 45,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Site Coordinator | Curse of Binding"
+    },
+    {
+        "name": "Site Coordinator Boots",
+        "armorPoints": 2,
+        "slot": "Boots",
+        "customDefense": 34,
+        "speed": -5,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Site Coordinator"
+    },
+    {
+        "name": "Site Director Helmet",
+        "armorPoints": 2,
+        "customDefense": 34,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Site Director"
+    },
+    {
+        "name": "Site Director Chestplate",
+        "armorPoints": 3,
+        "slot": "Chestplate",
+        "customDefense": 51,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Site Director | Curse of Binding"
+    },
+    {
+        "name": "Site Director Leggings",
+        "armorPoints": 2,
+        "slot": "Leggings",
+        "curseOfBinding": true,
+        "customDefense": 45,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from Site Director | Curse of Binding"
+    },
+    {
+        "name": "Site Director Boots",
+        "armorPoints": 1,
+        "customDefense": 30,
+        "curseOfBinding": true,
+        "slot": "Boots",
+        "speed": 10,
+        "droppable": false,
+        "obtainableText": "Obtainable from Site Director | Curse of Binding"
+    },
+    {
+        "name": "Council Helmet",
+        "armorPoints": 2,
+        "customDefense": 40,
+        "slot": "Helmet",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from 05"
+    },
+    {
+        "name": "Council Chestplate",
+        "slot": "Chestplate",
+        "armorPoints": 3,
+        "customDefense": 42,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "Obtainable from 05 | Curse of Binding"
+    },
+    {
+        "name": "Council Leggings",
+        "slot": "Leggings",
+        "armorPoints": 3,
+        "customDefense": 50,
+        "speed": 0,
+        "droppable": false,
+        "curseOfBinding": true,
+        "obtainableText": "Obtainable from 05 | Curse of Binding"
+    },
+    {
+        "name": "Council Boots",
+        "armorPoints": 1,
+        "customDefense": 38,
+        "slot": "Boots",
+        "speed": -15,
+        "curseOfBinding": true,
+        "droppable": false,
+        "obtainableText": "Obtainable from 05 | Curse of Binding"
+    },
+    {
+        "name": "Riot Helmet",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 7,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$400 Bought from Thug (X: 241, Y: 94, Z: -208)"
+    },
+    {
+        "name": "Riot Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 11,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$600 Bought from Thug (X: 241, Y: 94, Z: -208)"
+    },
+    {
+        "name": "Riot Leggings",
+        "armorPoints": 1,
+        "customDefense": 9,
+        "slot": "Leggings",
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$500 Bought from Thug (X: 241, Y: 94, Z: -208)"
+    },
+    {
+        "name": "Riot Boots",
+        "armorPoints": 1,
+        "slot": "Boots",
+        "customDefense": 7,
+        "speed": 0,
+        "droppable": true,
+        "obtainableText": "$400 Bought from Thug (X: 241, Y: 94, Z: -208)"
+    },
+    {
+        "name": "Heavy Cargo Barrel",
+        "armorPoints": 0,
+        "slot": "Helmet",
+        "customDefense": 0,
+        "curseOfBinding": true,
+        "speed": 0,
+        "droppable": false,
+        "obtainableText": "A quest item can be started at (X: -38, Y: 116, Z: 186) | Curse of Binding"
+    }
+]

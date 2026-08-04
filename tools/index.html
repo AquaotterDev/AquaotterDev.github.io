@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading...</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <img id="toolIcon" class="tool-icon" alt="">
+        <div>
+            <h1 id="toolTitle">Loading...</h1>
+            <p id="toolDescription">Loading tool disc...</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="card" id="toolContent"></div>
+    </main>
+
+    <footer>
+        &copy; 2026 AquaotterDev
+    </footer>
+
+    <script>
+        /** Remove ugly /index.html at the end, could move to folder in the future instead of this "hack". :P */
+        if (location.pathname.endsWith('/index.html')) {
+            history.replaceState(
+                null,
+                '',
+                location.pathname.replace('/index.html', '/') + location.search + location.hash
+            );
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        const toolId = params.get("id");
+
+        if (!toolId) {
+            document.title = "No Tool Selected";
+            toolTitle.textContent = "No Tool Selected";
+            toolDescription.textContent = "Missing ?id= parameter.";
+            throw new Error("Missing tool id.");
+        }
+
+        fetch("tools.json")
+            .then(response => response.json())
+            .then(tools => {
+
+                const tool = tools.find(t => t.id === toolId);
+
+                if (!tool) {
+                    document.title = "Tool Not Found";
+                    toolTitle.textContent = "Tool Not Found";
+                    toolDescription.textContent = `No tool with id "${toolId}" exists.`;
+                    return;
+                }
+
+                document.title = `${tool.name} | AquaotterDev`;
+
+                toolTitle.textContent = tool.name;
+                toolDescription.textContent = tool.description;
+
+                toolIcon.src = "../" + tool.icon;
+                toolIcon.alt = tool.name;
+
+                const folder = "internal/" + toolId
+
+                fetch(`${folder}/index.html`)
+                    .then(r => r.text())
+                    .then(html => {
+                        toolContent.innerHTML = html;
+
+                        const css = document.createElement("link");
+                        css.rel = "stylesheet";
+                        css.href = `${folder}/style.css`;
+                        document.head.appendChild(css);
+
+                        const script = document.createElement("script");
+                        script.src = `${folder}/script.js`;
+                        document.body.appendChild(script);
+                    })
+                    .catch(() => {
+                        toolContent.innerHTML = "<p>Unable to load tool.</p>";
+                    });
+
+            })
+            .catch(error => {
+                console.error(error);
+
+                document.title = "Error";
+                toolTitle.textContent = "Error";
+                toolDescription.textContent = "Failed to load tools.json.";
+            });
+    </script>
+
+</body>
+
+</html>

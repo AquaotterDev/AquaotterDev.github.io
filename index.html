@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AquaotterDev's Utils</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Just a collection of random utils by Aquaotter.">
+</head>
+
+<body>
+
+    <header>
+        <h1>🛠 AquaotterDev's utils 🛠</h1>
+        <p>Just a collection of random utils by Aquaotter.</p>
+        <u class="pc-only">Best Experience on PC</u>
+    </header>
+
+    <main>
+        <div id="toolGrid" class="tool-grid"></div>
+    </main>
+
+    <footer>
+        <p>&copy; AquaotterDev</p>
+    </footer>
+
+    <script>
+        fetch("tools/tools.json")
+            .then(res => res.json())
+            .then(tools => {
+                const grid = document.getElementById("toolGrid");
+
+                tools.forEach(tool => {
+                    const card = document.createElement("div");
+                    card.className = "tool-card";
+
+                    card.innerHTML = `
+                        <img class="tool-icon" src="${tool.icon}" alt="${tool.name} icon">
+                        <h2>${tool.name}</h2>
+                        <p>${tool.description}</p>
+                        <a href="tools/index.html?id=${encodeURIComponent(tool.id)}">Open →</a>
+                    `;
+
+                    grid.appendChild(card);
+                });
+            })
+            .catch(err => console.error("Failed to load tools:", err));
+    </script>
+</body>
+
+</html>

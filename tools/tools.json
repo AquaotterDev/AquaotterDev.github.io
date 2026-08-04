@@ -1,0 +1,20 @@
+[
+    {
+        "id": "blackOutSiteWeaponsStats",
+        "name": "BlackoutSite Weapons Stats",
+        "description": "Stats on weapons on minecraft server blackoutsite",
+        "icon": "icons/blackoutsite.png"
+    },
+    {
+        "id": "blackOutSiteArmorStats",
+        "name": "BlackoutSite Armor Stats",
+        "description": "Stats on armor on minecraft server blackoutsite",
+        "icon": "icons/blackoutsite.png"
+    },
+    {
+        "id": "blackOutSiteCompareArmor",
+        "name": "BlackoutSite Compare Armor Stats",
+        "description": "Comparing old/new armor on minecraft server blackoutsite",
+        "icon": "icons/blackoutsite.png"
+    }
+]
