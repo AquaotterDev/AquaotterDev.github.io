@@ -36,7 +36,9 @@ function totalReduction(armorPoints, customDefense, protectionLevel) {
     return (1 - (1 - armor) * (1 - custom) * (1 - protection)) * 100;
 }
 
-fetch("internal/blackOutSiteArmorStats/armors.json")
+fetch("internal/blackOutSiteArmorStats/armors.json", {
+    cache: "no-store"
+})
     .then(r => r.json())
     .then(data => {
         armors = data;
