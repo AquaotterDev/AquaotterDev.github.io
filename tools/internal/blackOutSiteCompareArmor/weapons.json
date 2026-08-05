@@ -1,14 +1,14 @@
 [
     {
         "name": "Security Dagger",
-        "damage": 4,
+        "damage": 4.7,
         "attackSpeed": -2.4,
         "droppable": true,
         "obtainableText": "Dropped from Security"
     },
     {
         "name": "Senior Security Sword",
-        "damage": 4.5,
+        "damage": 5.1,
         "attackSpeed": -2.4,
         "droppable": true,
         "obtainableText": "Dropped from Senior Security"
@@ -22,14 +22,14 @@
     },
     {
         "name": "Doctor Scalpel",
-        "damage": 3.5,
-        "attackSpeed": -2.4,
+        "damage": 4.1,
+        "attackSpeed": -2.2,
         "droppable": false,
         "obtainableText": "Curse of Vanishing"
     },
     {
         "name": "Scientist Baton",
-        "damage": 3.5,
+        "damage": 3.8,
         "attackSpeed": -2,
         "droppable": true,
         "obtainableText": "Dropped from Scientist"
@@ -37,84 +37,77 @@
     {
         "name": "Epsilon-11 Sword",
         "damage": 5.5,
-        "attackSpeed": -2.2,
+        "attackSpeed": -2,
         "droppable": false,
         "obtainableText": "Curse of Vanishing"
     },
     {
-        "name": "Delta-5 Dagger",
-        "damage": 5,
-        "attackSpeed": -2.4,
+        "name": "Delta-5 Fast Axe Critter",
+        "damage": 5.9,
+        "attackSpeed": -2.5,
         "droppable": false,
-        "obtainableText": "Curse of Vanishing"
+        "obtainableText": "Obtained from Delta-5 | +50 jump strength & safe fall distance"
     },
     {
         "name": "Nu-7 Lance",
-        "damage": 4.5,
-        "attackSpeed": -2.4,
-        "droppable": true,
-        "obtainableText": "Dropped from Nu-7"
-    },
-    {
-        "name": "Nu-7 Hammer",
-        "damage": 6.5,
-        "attackSpeed": -2.7,
+        "damage": 7.8,
+        "attackSpeed": -2.75,
         "droppable": true,
         "obtainableText": "Dropped from Nu-7"
     },
     {
         "name": "Alpha-1 Baton",
-        "damage": 6,
+        "damage": 6.1,
         "attackSpeed": -2.4,
         "droppable": true,
         "obtainableText": "Dropped from Alpha-1"
     },
     {
         "name": "Omega-1 Blade",
-        "damage": 5.5,
-        "attackSpeed": -2.4,
+        "damage": 6.2,
+        "attackSpeed": -2.6,
         "droppable": true,
         "obtainableText": "Dropped from Omega-1"
     },
     {
         "name": "Titan-1 Sword",
-        "damage": 8,
+        "damage": 8.5,
         "attackSpeed": -2.5,
         "droppable": false,
         "obtainableText": "Curse of Vanishing"
     },
     {
         "name": "Internal Affairs Sword",
-        "damage": 5,
-        "attackSpeed": -2.2,
+        "damage": 5.33,
+        "attackSpeed": -2,
         "droppable": true,
         "obtainableText": "Dropped from Internal-Affairs"
     },
     {
         "name": "Internal Affairs Officer Sword",
-        "damage": 6,
-        "attackSpeed": -2.4,
+        "damage": 5.88,
+        "attackSpeed": -2.1,
         "droppable": true,
         "obtainableText": "Dropped from Internal-Affairs-Officer"
     },
     {
         "name": "Site Coordinator",
-        "damage": 6.5,
-        "attackSpeed": -2.4,
+        "damage": 7.11,
+        "attackSpeed": -2.5,
         "droppable": false,
         "obtainableText": "Curse of Vanishing"
     },
     {
         "name": "Site Director Rapier",
-        "damage": 6.5,
-        "attackSpeed": -2.4,
+        "damage": 7.77,
+        "attackSpeed": -2.35,
         "droppable": true,
         "obtainableText": "Dropped from Site-Director"
     },
     {
         "name": "Council Heavy Scythe",
-        "damage": 6,
-        "attackSpeed": -2.7,
+        "damage": 7,
+        "attackSpeed": -2.6,
         "droppable": true,
         "obtainableText": "Dropped from 05"
     },
@@ -162,39 +155,39 @@
     },
     {
         "name": "Chaos Alpha Dagger",
-        "damage": 4,
-        "attackSpeed": -2.4,
+        "damage": 4.75,
+        "attackSpeed": -2.3,
         "droppable": true,
         "obtainableText": "Dropped/Obtained from Chaos-Alpha",
         "requires": "Chaos-Alpha"
     },
     {
         "name": "Chaos Beta Battleaxe",
-        "damage": 6.5,
-        "attackSpeed": -3,
+        "damage": 8,
+        "attackSpeed": -3.1,
         "droppable": false,
         "obtainableText": "Obtained from Chaos-Beta",
         "requires": "Chaos-Beta"
     },
     {
         "name": "Chaos Gamma Longsword",
-        "damage": 4.5,
-        "attackSpeed": -2.4,
+        "damage": 5.6,
+        "attackSpeed": -2.45,
         "droppable": true,
         "obtainableText": "Dropped/Obtained from Chaos-Gamma",
         "requires": "Chaos-Gamma"
     },
     {
         "name": "Chaos Delta Sword",
-        "damage": 5.5,
-        "attackSpeed": -2.4,
+        "damage": 6,
+        "attackSpeed": -2.45,
         "droppable": true,
         "obtainableText": "Dropped/Obtained from Chaos-Delta",
         "requires": "Chaos-Delta"
     },
     {
         "name": "Chaos Epsilon Scythe",
-        "damage": 5,
+        "damage": 5.4,
         "attackSpeed": -2.2,
         "droppable": true,
         "obtainableText": "Dropped/Obtained from Chaos-Epsilon",
@@ -210,8 +203,8 @@
     },
     {
         "name": "The Engineer Longsword",
-        "damage": 6,
-        "attackSpeed": -2.4,
+        "damage": 6.75,
+        "attackSpeed": -2.45,
         "droppable": true,
         "obtainableText": "Dropped/Obtained from The-Engineer",
         "requires": "The-Engineer"
