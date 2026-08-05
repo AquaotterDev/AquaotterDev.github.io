@@ -216,5 +216,21 @@
         "droppable": false,
         "obtainableText": "Obtained from The-Engineer",
         "requires": "The-Engineer"
+    },
+    {
+        "name": "Serpent Rapier",
+        "damage": 7,
+        "attackSpeed": -2.5,
+        "droppable": false,
+        "obtainableText": "Obtained from Serpent-Monarch",
+        "requires": "Serpent-Monarch"
+    },
+    {
+        "name": "The Lord's Power Staff",
+        "damage": 6.5,
+        "attackSpeed": -3.9333,
+        "droppable": false,
+        "obtainableText": "Obtained from Serpent-Monarch | 12 Block range (15 second cooldown)",
+        "requires": "Serpent-Monarch"
     }
 ]

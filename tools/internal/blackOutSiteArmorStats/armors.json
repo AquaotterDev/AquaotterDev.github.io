@@ -1256,5 +1256,46 @@
         "speed": 0,
         "droppable": false,
         "obtainableText": "A quest item can be started at (X: -38, Y: 116, Z: 186) | Curse of Binding"
+    },
+    {
+        "name": "Monarch Crown",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 33,
+        "curseOfBinding": true,
+        "speed": 0,
+        "requires": "Serpent-Monarch",
+        "droppable": false,
+        "obtainableText": "Obtainable from Serpent-Monarch | Curse of Binding"
+    },
+    {
+        "name": "Monarch Chestplate",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 40,
+        "speed": 0,
+        "droppable": true,
+        "requires": "Serpent-Monarch",
+        "obtainableText": "Droppable/Obtainable from Serpent-Monarch"
+    },
+    {
+        "name": "Monarch Leggings",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 43,
+        "speed": 0,
+        "droppable": false,
+        "requires": "Serpent-Monarch",
+        "obtainableText": "Obtainable from Serpent-Monarch"
+    },
+    {
+        "name": "Monarch Greaves",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 33,
+        "speed": 5,
+        "droppable": true,
+        "requires": "Serpent-Monarch",
+        "obtainableText": "Droppable/Obtainable from Serpent-Monarch"
     }
 ]
