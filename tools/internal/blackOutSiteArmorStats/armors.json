@@ -1271,7 +1271,7 @@
     {
         "name": "Monarch Chestplate",
         "armorPoints": 1,
-        "slot": "Helmet",
+        "slot": "Chestplate",
         "customDefense": 40,
         "speed": 0,
         "droppable": true,
@@ -1281,7 +1281,7 @@
     {
         "name": "Monarch Leggings",
         "armorPoints": 1,
-        "slot": "Helmet",
+        "slot": "Leggings",
         "customDefense": 43,
         "speed": 0,
         "droppable": false,
@@ -1291,7 +1291,7 @@
     {
         "name": "Monarch Greaves",
         "armorPoints": 1,
-        "slot": "Helmet",
+        "slot": "Boots",
         "customDefense": 33,
         "speed": 5,
         "droppable": true,
