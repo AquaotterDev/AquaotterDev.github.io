@@ -13,7 +13,9 @@ const kitFilters = document.getElementById("kitFilters");
 
 let ownedKits = {};
 
-fetch("internal/blackOutSiteWeaponsStats/weapons.json")
+fetch("internal/blackOutSiteWeaponsStats/weapons.json", {
+    cache: "no-store"
+})
     .then(r => r.json())
     .then(data => {
         weapons = data;
