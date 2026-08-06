@@ -100,7 +100,7 @@
     {
         "name": "Site Director Rapier",
         "damage": 7.77,
-        "attackSpeed": -2.35,
+        "attackSpeed": -2.5,
         "droppable": true,
         "obtainableText": "Dropped from Site-Director"
     },
