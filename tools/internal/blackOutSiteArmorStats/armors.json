@@ -1297,5 +1297,47 @@
         "droppable": true,
         "requires": "Serpent-Monarch",
         "obtainableText": "Droppable/Obtainable from Serpent-Monarch"
+    },
+    {
+        "name": "Serpent Helmet",
+        "armorPoints": 1,
+        "slot": "Helmet",
+        "customDefense": 24,
+        "speed": 5,
+        "curseOfBinding": true,
+        "droppable": false,
+        "requires": "Serpent-Hand",
+        "obtainableText": "Obtainable from Serpent-Hand | Curse of Binding"
+    },
+    {
+        "name": "Serpent Chestplate",
+        "armorPoints": 1,
+        "slot": "Chestplate",
+        "customDefense": 33,
+        "speed": 0,
+        "droppable": false,
+        "requires": "Serpent-Hand",
+        "obtainableText": "Obtainable from Serpent-Hand"
+    },
+    {
+        "name": "Serpent Leggings",
+        "armorPoints": 1,
+        "slot": "Leggings",
+        "customDefense": 28,
+        "speed": 0,
+        "droppable": true,
+        "requires": "Serpent-Hand",
+        "obtainableText": "Droppable/Obtainable from Serpent-Hand"
+    },
+    {
+        "name": "Serpent Boots",
+        "armorPoints": 1,
+        "slot": "Boots",
+        "customDefense": 25,
+        "speed": 10,
+        "curseOfBinding": true,
+        "droppable": false,
+        "requires": "Serpent-Hand",
+        "obtainableText": "Obtainable from Serpent-Hand | Curse of Binding"
     }
 ]

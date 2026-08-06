@@ -230,7 +230,15 @@
         "damage": 6.5,
         "attackSpeed": -3.9333,
         "droppable": false,
-        "obtainableText": "Obtained from Serpent-Monarch | 12 Block range (15 second cooldown)",
+        "obtainableText": "Obtained from Serpent-Monarch | 12 Block range (20 second cooldown)",
         "requires": "Serpent-Monarch"
+    },
+    {
+        "name": "Serpent Cutlass",
+        "damage": 5.2,
+        "attackSpeed": -2.15,
+        "droppable": false,
+        "obtainableText": "Obtained from Serpent-Hand",
+        "requires": "Serpent-Hand"
     }
 ]
