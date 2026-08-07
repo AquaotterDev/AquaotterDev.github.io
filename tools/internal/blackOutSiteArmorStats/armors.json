@@ -43,7 +43,7 @@
         "name": "Chaos Beta Helmet",
         "armorPoints": 1,
         "customDefense": 17,
-        "speed": 0,
+        "speed": 6,
         "slot": "Helmet",
         "droppable": false,
         "requires": "Chaos-Beta",
@@ -1027,7 +1027,7 @@
         "name": "Internal Affairs Helmet",
         "armorPoints": 1,
         "customDefense": 26,
-        "speed": 5,
+        "speed": 9,
         "droppable": true,
         "slot": "Helmet",
         "obtainableText": "Droppable/Obtainable from Internal Affairs"
@@ -1037,7 +1037,7 @@
         "armorPoints": 1,
         "customDefense": 35,
         "slot": "Chestplate",
-        "speed": 0,
+        "speed": 1,
         "droppable": false,
         "obtainableText": "Obtainable from Internal Affairs"
     },

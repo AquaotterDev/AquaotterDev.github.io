@@ -198,7 +198,7 @@
         "damage": 7,
         "attackSpeed": -3.25,
         "droppable": false,
-        "obtainableText": "Obtained from Chaos-Epsilon",
+        "obtainableText": "Obtained from Chaos-Epsilon | 12 uses",
         "requires": "Chaos-Epsilon"
     },
     {
