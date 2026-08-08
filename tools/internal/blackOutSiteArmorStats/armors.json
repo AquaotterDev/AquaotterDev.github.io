@@ -879,7 +879,7 @@
         "curseOfBinding": true,
         "speed": 0,
         "droppable": false,
-        "obtainableText": "Obtainable from Nu-7 | Curse of Binding | Scale 0.1"
+        "obtainableText": "Obtainable from Nu-7 | Curse of Binding"
     },
     {
         "name": "Nu-7 Chestplate",
@@ -894,7 +894,7 @@
     {
         "name": "Nu-7 Leggings",
         "armorPoints": 1,
-        "customDefense": 31,
+        "customDefense": 35,
         "slot": "Leggings",
         "speed": -4.5,
         "droppable": true,
@@ -930,12 +930,12 @@
     {
         "name": "Alpha-1 Trousers",
         "armorPoints": 1,
-        "customDefense": 35,
+        "customDefense": 30,
         "curseOfBinding": true,
         "slot": "Leggings",
         "speed": 5,
-        "droppable": false,
-        "obtainableText": "Obtainable from Alpha-1 | Curse of Binding"
+        "droppable": true,
+        "obtainableText": "Droppable/Obtainable from Alpha-1 | Curse of Binding"
     },
     {
         "name": "Alpha-1 Shoes",
@@ -963,7 +963,7 @@
         "speed": 0,
         "slot": "Chestplate",
         "droppable": false,
-        "obtainableText": "Obtainable from Omega-1 | Curse of Binding"
+        "obtainableText": "Obtainable from Omega-1 | Curse of Binding | 0.1 Scale"
     },
     {
         "name": "Omega-1 Leggings",
@@ -1027,7 +1027,7 @@
         "name": "Internal Affairs Helmet",
         "armorPoints": 1,
         "customDefense": 26,
-        "speed": 9,
+        "speed": 5,
         "droppable": true,
         "slot": "Helmet",
         "obtainableText": "Droppable/Obtainable from Internal Affairs"
@@ -1037,7 +1037,7 @@
         "armorPoints": 1,
         "customDefense": 35,
         "slot": "Chestplate",
-        "speed": 1,
+        "speed": 5,
         "droppable": false,
         "obtainableText": "Obtainable from Internal Affairs"
     },
@@ -1080,7 +1080,7 @@
     {
         "name": "Internal Affairs Officer Leggings",
         "armorPoints": 1,
-        "customDefense": 37,
+        "customDefense": 42,
         "slot": "Leggings",
         "speed": -5,
         "droppable": true,

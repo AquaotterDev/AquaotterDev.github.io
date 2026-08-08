@@ -36,8 +36,8 @@
     },
     {
         "name": "Epsilon-11 Sword",
-        "damage": 5.5,
-        "attackSpeed": -2,
+        "damage": 5.33,
+        "attackSpeed": -2.2,
         "droppable": false,
         "obtainableText": "Curse of Vanishing"
     },
@@ -46,13 +46,13 @@
         "damage": 5.9,
         "attackSpeed": -2.5,
         "droppable": false,
-        "obtainableText": "Obtained from Delta-5 | +50 jump strength & safe fall distance"
+        "obtainableText": "Obtained from Delta-5"
     },
     {
         "name": "Nu-7 Lance",
         "damage": 7.8,
         "attackSpeed": -2.75,
-        "droppable": true,
+        "droppable": false,
         "obtainableText": "Dropped from Nu-7"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
         "name": "Internal Affairs Sword",
-        "damage": 5.33,
+        "damage": 5,
         "attackSpeed": -2,
         "droppable": false,
         "obtainableText": "Obtained from Internal-Affairs"
